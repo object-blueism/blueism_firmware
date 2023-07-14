@@ -17,14 +17,15 @@ Blueism firmware is developed with nrf connect sdk, the source code for the firm
 | Battery report         | Testing |
 
 
-| Planned feature               | Status  |
-|-------------------------------|---------|
-| BT HID keyboard report (NKRO) |         |
-| BT HID system report          |         |
-| BT MIDI                       |         |
+| Planned feature               |
+|-------------------------------|
+| BT HID keyboard report (NKRO) |
+| BT HID system report          |
+| BT MIDI                       |
 
 ## Documention
 * [nrfpill](https://github.com/object-blueism/nrfpill)
-* [Flashing](https://github.com/object-blueism/blueism_firmware/docs/flashing.md)
+* [Flashing](https://github.com/object-blueism/blueism_firmware/blob/main/docs/flashing.md)
+* Pairing and unpairing
 * Command table
 * Use with qmk_firmware
