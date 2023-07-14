@@ -27,5 +27,5 @@ Blueism firmware is developed with nrf connect sdk, the source code for the firm
 * [nrfpill](https://github.com/object-blueism/nrfpill)
 * [Flashing](https://github.com/object-blueism/blueism_firmware/blob/main/docs/flashing.md)
 * [Pairing and unpairing](https://github.com/object-blueism/blueism_firmware/blob/main/docs/Pairing%20and%20unpairing.md)
-* Command table
+* [Command table](https://github.com/object-blueism/blueism_firmware/blob/main/docs/Command%20table.md)
 * Use with qmk_firmware
