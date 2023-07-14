@@ -15,4 +15,4 @@ The blueism firmware can only remember one host at the moment, you have to unpai
 
 * According to the command table, sending unpair command to make blueism firmware forget the current host. The blueism firmware will restart advertising after unpairing.
 
-Please note that terminating a connection from host does not equal to unpairing, the id key of the host is still stored in the flash memory of XIAO.
+Please note that terminating a connection from host is not equal to unpairing, the id key of the host is still stored in the flash memory of nrf52840.
