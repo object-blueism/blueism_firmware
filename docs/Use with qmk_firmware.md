@@ -13,4 +13,4 @@ To test bluetooth function of onekey example on your nrfpill, complete the follo
 4. On your computer or smart phone, search for Bluetooth devices and connect to the device named "Blueism". The RGB LED on XIAO turns into green once connected.
 5. Open a text editor and repeatedly press the user button(A0) on the Blackpill, observe that letter "A" is received by your host.
 6. The example also demonstrates battery report, this is done by simulating battery level from 100 to 0, the implementation can be found in keymap.c.
-
+7. To disconnect nrfpill from your computer, short Blackpill B9 and GND together.
